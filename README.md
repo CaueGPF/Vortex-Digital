@@ -1,6 +1,6 @@
 # 🚀 Vortex Digital - Landing Page (Teste Front-End - Ellos Design)
 
-Bem-vindo(a) ao repositório da Vortex Digital, uma landing page desenvolvida como parte de um teste técnico para a vaga de Estágio Front-End, com foco em experiência do usuário, responsividade e integração com banco de dados.
+Bem-vindo(a) ao repositório da Vortex Digital, uma landing page desenvolvida como forma de estudo Front-End, com foco em experiência do usuário, responsividade e integração com banco de dados.
 
 ## 📌 Sobre o Projeto
 
@@ -109,5 +109,4 @@ Banco de dados configurado em hospedagem remota via InfinityFree.
 **Cauê Gonçalves Pestile Fernandes**
   [Linkedin](https://www.linkedin.com/in/cauegpf/) | [GitHub](https://github.com/CaueGPF)
 
-Agradeço a oportunidade de participar deste teste técnico.
 Este projeto foi desenvolvido com dedicação, aplicando boas práticas de organização, responsividade e integração full-stack.
